@@ -1,1 +1,11 @@
 /target
+/src/victim
+/src/compiler_clean
+/src/compiler_step2
+/src/clean_compiler.ml
+*.cmi
+*.cmx
+*.cmo
+*.o
+*.out
+/tmp/
